@@ -1,6 +1,6 @@
 <h1>Airrow</h1>
 
-Team Members: 
-Amin Saber #First commit
-Rodger Retanal (Big Boi) # Firse commit
-Milad Rezaee #First commit
+<h2>Team Members</h2>
+<p>Amin Saber</p> #First commit
+<p>Rodger Retanal (Big Boi)</p> # Firse commit
+<p>Milad Rezaee</p> #First commit
