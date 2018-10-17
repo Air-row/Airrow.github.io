@@ -1,4 +1,4 @@
- h1 {
+/* h1 {
     font-size: 200;
     padding: 350px;
     border-style: groove;
@@ -11,29 +11,25 @@
     background-image: url("https://i.ytimg.com/vi/eDqj_YmWIaw/maxresdefault.jpg");
     background-repeat:no-repeat;
     background-size: 100%;
-  }
-  /*h2 {
-
-    text-align: center;
-    color: blue;
-    border-style: groove;
-    border-color: lightgrey;
-    background-image: url("http://getwallpapers.com/wallpaper/full/2/a/0/1156395-free-hd-gradient-wallpapers-1920x1080-for-android.jpg");
-    background-repeat:no-repeat;
-    background-size: 100%;
-
   }*/
-  h3 {
-    text-align: center;
-    color: turquoise;
-    border-style: dotted;
-    border-color: lightblue;
-    background-image:url("https://cdn.pixabay.com/photo/2015/09/10/14/45/texture-934511__340.jpg");
-    background-repeat:no-repeat;
-    background-size: 100%;
 
+video {
+  width: 100%;
+  margin-top: 10px;
+  text-shadow: 10px, 10px;
+  box-shadow: 5px, 5px;
+}
 
-  }
+#slogan {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+
+h3 {
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+
 p {
   text-align: center;
   font-size: 15px;
