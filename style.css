@@ -499,7 +499,8 @@ input:-webkit-autofill:focus {
 }
 
 .is-sticky .navbar-brand > img {
-    max-width: 80%;
+    max-width: 70%;
+    max-height: 300%;
 }
 
 ul#nav {
